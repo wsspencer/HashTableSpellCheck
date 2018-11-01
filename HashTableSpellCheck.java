@@ -1,5 +1,4 @@
-//CSC316 - Project
-//wsspence - W. Scott Spencer
+// W. Scott Spencer
 //Spell-checker using Hash-Table
 
 import java.util.*;
